@@ -233,23 +233,7 @@
       box-sizing: border-box; 
     }
   
-    
-     /*PDF8*/
-     .pdf-content-8 {
-      width: 100%; 
-      height: 100%; 
-      background-image: url(./assets/fondo-presupuesto-8.jpg);
-      background-size: cover; 
-      background-repeat: no-repeat; 
-      background-position: center; 
-      padding: 20px; 
-      box-sizing: border-box; 
-    }
-  .photo-obra{
-    width: 350px;
-    height: 200px;
-  }
-  
+
   .right-ubication{
     display: flex;
     flex-direction: column;
@@ -313,7 +297,7 @@
   .row-qr{
     display: flex;
     justify-content: center;
-    margin-bottom: 110px;
+    margin-bottom: 114px;
   }
   .tamanio-presupuesto{
     font-size: 20px;
